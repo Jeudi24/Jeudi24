@@ -198,14 +198,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="whitehorse21 :: Top Langs" />
 <a href="https://github.com/whitehorse21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=whitehorse21&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@whitehorse21's trophy stats"/></a>
 </p>
-
-<h2>Contact me :postbox:</h2>
-<div>
-  <a href = "mailto:darkhorse19990716@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://join.skype.com/invite/DGZq6CDO0Oyz" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/whitehorse1004" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
